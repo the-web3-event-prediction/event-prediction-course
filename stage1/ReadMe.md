@@ -151,4 +151,36 @@
 - 录制文件：https://meeting.tencent.com/crm/KzO6nGk62d
 
 
+# 区块链基础课程第五天
+
+## 1.主要内容
+
+- 公链，联盟，跨链和模块化区块的基本概念解析
+- 比特币基本原理讲解
+
+
+## 2.课程笔记
+- [6.第六讲: 联盟链，公链，跨链和模块化区块链](https://w2z1amg2x5.sg.larksuite.com/docx/ZztGdUuPEoKCZAxQLTnlEeAeg5f?from=from_copylink)
+- [7.第七讲: 从 0 开始说透比特币的基本框架与原理](https://w2z1amg2x5.sg.larksuite.com/docx/UDlcdIDcMobgWkxG2yRlyJOygxh?from=from_copylink)
+
+
+## 3.重点内容
+
+- 公链，联盟，跨链和模块化区块
+- 比特币共识算法
+- UTXO
+- 比特币脚本编程
+
+
+## 4.视频链接
+
+### 第一段视频
+- 录制：第九期技术课程第一阶段区块链基础第五天前半部分
+- 日期：2026-05-20 09:25:18
+- 录制文件：https://meeting.tencent.com/crm/KnZp89Wnec
+
+### 第二段视频
+
+- 第九期技术课程第一阶段区块链基础第五天后半部分
+- https://www.alipan.com/s/BBeyJqmn4ac
 
