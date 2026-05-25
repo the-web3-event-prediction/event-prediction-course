@@ -33,3 +33,122 @@
   - 常用的浏览器的基本使用
   - 常用的数据平台的基本使用
   - 链上数据分析工具，代码分析工具
+
+# 区块链基础知识第一天
+
+## 1.主要内容
+
+- 区块链和 Web3 的关系
+- Web3 的未来发展趋势
+- 区块链发展过程
+- 什么区块链和区块链特性
+- 区块链的基础密码学原理
+
+## 2.课程笔记
+
+- [1.第一讲：区块链与 Web3 的关系, Web3 的未来前景分析](https://w2z1amg2x5.sg.larksuite.com/docx/R2Cjd9shwoCNODxyZPWl5AKmggd)
+- [2.第二讲：区块链的发展历史简析,什么是区块链](https://w2z1amg2x5.sg.larksuite.com/docx/QNQOdCP6coMVpbx0Ao1ljD5vgje)
+- [3.第三讲.区块链的基础密码学原理](https://w2z1amg2x5.sg.larksuite.com/docx/TDmWdfThJo1hXLxrDbtlWtLjgfc)
+
+
+## 3.课程重点
+
+- 什么区块链和区块链特性
+- Hash 函数
+- 对称加密和非对称加密
+
+## 4.视频链接
+
+- 录制：第九期技术课程第一阶段区块链基础第一天
+- 日期：2026-05-11 11:32:48
+- 录制文件：https://meeting.tencent.com/crm/l7mPQExo25
+
+
+# 基础阶段第二天课程
+
+## 1.主要内容
+
+- 密码学原语
+- 区块链组织结构
+
+
+## 2.课程笔记
+- [3.第三讲.区块链的基础密码学原理](https://w2z1amg2x5.sg.larksuite.com/docx/TDmWdfThJo1hXLxrDbtlWtLjgfc)
+- [4.第四讲：区块链的组织结构](https://w2z1amg2x5.sg.larksuite.com/docx/HE3Pdd7CVoZtXUxhEpnlOvaBgQb)
+
+
+## 3.重点内容
+- MPC
+- BLS
+- 门限签名
+- schnoor
+- merkle tree
+- 前缀数
+
+## 4.视频链接
+
+- 录制：第九期技术课程第一阶段区块链基础第二天
+- 日期：2026-05-12 12:05:16
+- 录制文件：https://meeting.tencent.com/crm/l7m7XZ698c
+
+# 基础阶段第三天课程
+
+## 1.主要内容
+
+- 区块链基本数据结构
+  - Merkle 树
+  - 默克尔帕特里特树
+  - 布隆过滤器
+- 区块头和区块体
+- 区块链交易分析
+- 账户和账户模型
+- 节点和矿池
+
+## 2.课程笔记
+
+- [4.第四讲：区块链的组织结构](https://w2z1amg2x5.sg.larksuite.com/docx/HE3Pdd7CVoZtXUxhEpnlOvaBgQb)
+
+## 3.重点掌握内容
+- 默克尔帕特里特树
+- 区块头和区块体
+- 区块链交易分析
+- 账户和账户模型
+- 节点和矿池
+
+## 4.视频链接
+
+- 录制：第九期技术课程第一阶段区块链基础第三天
+- 日期：2026-05-14 09:30:55
+- 录制文件：https://meeting.tencent.com/crm/ldxB7LdJb0
+
+# 区块链基础课程第四天
+
+## 1.主要内容
+
+- 共识算法
+  - POW
+  - POS
+- P2P点对点通信简介
+- 联盟链，公链和跨链等基本概念解析
+
+
+## 2.课程笔记
+
+- [5.第五讲：共识算法与点对点通信协议](https://w2z1amg2x5.sg.larksuite.com/docx/MugPdWOGuoNagJx6o9qlJCexg2e)
+- [6.第六讲: 联盟链，公链，跨链和模块化区块链](https://w2z1amg2x5.sg.larksuite.com/docx/ZztGdUuPEoKCZAxQLTnlEeAeg5f)
+
+## 3.课程重点
+
+- 共识算法
+  - POW
+  - POS
+- 联盟链，公链和跨链等基本概念解析
+
+## 4.视频链接
+
+- 录制：第九期技术课程第一阶段区块链基础第四天
+- 日期：2026-05-18 09:38:37
+- 录制文件：https://meeting.tencent.com/crm/KzO6nGk62d
+
+
+
