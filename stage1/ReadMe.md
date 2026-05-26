@@ -183,4 +183,31 @@
 
 - 第九期技术课程第一阶段区块链基础第五天后半部分
 - https://www.alipan.com/s/BBeyJqmn4ac
+  
+
+# 区块链基础课程第六天
+
+## 1.主要内容
+
+- 从 0 开始说透比特币的基本框架与原理
+- 从 0 开始说透以太坊的基本框架与原理
+
+
+## 2.课程笔记
+
+- [7.第七讲: 从 0 开始说透比特币的基本框架与原理](https://w2z1amg2x5.sg.larksuite.com/docx/UDlcdIDcMobgWkxG2yRlyJOygxh)
+- [8.第八讲:从 0 开始说透以太坊的基本框架与原理](https://w2z1amg2x5.sg.larksuite.com/docx/JwRNdltKJoyFh1xADG2lJSiqgkU)
+
+
+## 3.重点内容
+
+- 掌握比特基本概念，共识算法，账户模型和生态体系
+- 掌握以太坊基本概念，出块流程，共识算法，EVM和生态体系
+
+## 4.视频链接
+
+- 录制：第九期技术课程第一阶段区块链基础第六天
+- 日期：2026-05-26 09:36:20
+- 录制文件：https://meeting.tencent.com/crm/2rOonPbea4
+
 
