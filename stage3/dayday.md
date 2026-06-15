@@ -29,8 +29,10 @@
 
 ## 第五天（事件池）
 ### 1.课程笔记
-
+- [2.第三讲：预测市场事件池产品设计](https://w2z1amg2x5.sg.larksuite.com/docx/BSWOdwK3BoAuldx9j7ilt5U9g2e?from=from_copylink)
 ### 2.视频链接
+- 第一段：https://meeting.tencent.com/crm/l58wkAq519 密码：R3FP
+- 第二段：https://meeting.tencent.com/crm/KWWLp6x735 密码：ZRQE
 
 ## 第六天（套利机制）
 ### 1.课程笔记
