@@ -50,3 +50,23 @@
 - 第二段：https://meeting.tencent.com/crm/KEWYEvkD9d
 - 第三段：https://meeting.tencent.com/crm/N8QdQPJ650
 
+## 第八天（做市商）
+### 1.课程笔记
+- [第五讲：事件预测市场的做市商](https://w2z1amg2x5.sg.larksuite.com/wiki/FTsmwmUeMiAoDakvdJmlCnF6gwc?from=from_copylink)
+### 2.视频链接
+- 深造视频 001做市商
+
+
+## 第九天（做市商）
+### 1.课程笔记
+- [第六讲：做市商的初始化做市策略](https://w2z1amg2x5.sg.larksuite.com/wiki/WZxewMFjMiA0HUkwmq6l4wE6gFb?from=from_copylink)
+- [第七讲：预测市场交易中（盘中）做市策略](https://w2z1amg2x5.sg.larksuite.com/wiki/G8EZw8JeliOCeNkY0K8lOfkGgGg?from=from_copylink)
+### 2.视频链接
+- 深造视频 002做市商
+
+## 第九天（做市商）
+### 1.课程笔记
+- [第八讲：做市商尾盘策略](https://w2z1amg2x5.sg.larksuite.com/wiki/FKzIwvveOinD5GkQx9NlrQfhg3g?from=from_copylink)
+- [第九讲：盘中策略的架构设计](https://w2z1amg2x5.sg.larksuite.com/wiki/GtDPwj2jhirsmtk2nE4lH7CBg9b?from=from_copylink)
+### 2.视频链接
+- 深造视频 003做市商
