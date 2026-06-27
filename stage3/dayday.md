@@ -70,3 +70,9 @@
 - [第九讲：盘中策略的架构设计](https://w2z1amg2x5.sg.larksuite.com/wiki/GtDPwj2jhirsmtk2nE4lH7CBg9b?from=from_copylink)
 ### 2.视频链接
 - 深造视频 003做市商
+
+## 第十天（做市商）
+### 1.课程笔记
+- [第十讲：初始化做市的代码实现方案](https://w2z1amg2x5.sg.larksuite.com/wiki/Zd4swkNkniYhPPkbCi1lCecdgeh)
+### 2.视频链接
+- 深造视频 004做市商
