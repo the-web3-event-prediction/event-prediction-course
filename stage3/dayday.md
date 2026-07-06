@@ -106,7 +106,7 @@
 ### 1.课程笔记
 - [第十一讲：数据同步讲义](https://w2z1amg2x5.sg.larksuite.com/wiki/J4QBwxjN2i2oFHkz4IFlKOyWgTf?from=from_copylink)
 ### 2.视频链接
-- 深造视频 0067做市商
+- 深造视频 007做市商
 ### 3.课程代码
 - https://github.com/the-web3-event-prediction/event-market-maker
 
