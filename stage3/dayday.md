@@ -114,6 +114,6 @@
 ### 2.视频链接
 - 深造视频 业务中台001
 ### 3.课程代码
-- https://github.com/the-web3-event-prediction/event-market-maker
+- https://github.com/the-web3-event-prediction/event-services
 
 
