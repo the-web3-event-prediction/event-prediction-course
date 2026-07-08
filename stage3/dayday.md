@@ -104,9 +104,15 @@
 
 ## 第十四天（做市商）
 ### 1.课程笔记
-- [第十一讲：数据同步讲义](https://w2z1amg2x5.sg.larksuite.com/wiki/J4QBwxjN2i2oFHkz4IFlKOyWgTf?from=from_copylink)
+- [第十二讲：盘中做市代码实现方案](https://w2z1amg2x5.sg.larksuite.com/wiki/L2Yyw54gji2BUJkGx90lcnkkgch?from=from_copylink)
 ### 2.视频链接
 - 深造视频 007做市商
+
+## 第十五天（业务中台）
+### 1.课程笔记
+- [第十三讲：业务中台的业务讲解](https://w2z1amg2x5.sg.larksuite.com/wiki/BRyXwJQxdi7lAckkICalCAOCgTf?from=from_copylink)
+### 2.视频链接
+- 深造视频 业务中台001
 ### 3.课程代码
 - https://github.com/the-web3-event-prediction/event-market-maker
 
