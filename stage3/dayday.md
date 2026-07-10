@@ -116,4 +116,11 @@
 ### 3.课程代码
 - https://github.com/the-web3-event-prediction/event-services
 
+## 第十六天（业务中台）
+### 1.课程笔记
+- [第十四讲：业务中台系统设计](https://w2z1amg2x5.sg.larksuite.com/wiki/USN8wd6Efi2zQLkgxWLlaH8og7N?from=from_copylink)
+### 2.视频链接
+- 深造视频 业务中台002
+### 3.课程代码
+- https://github.com/the-web3-event-prediction/event-services
 
